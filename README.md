@@ -1,5 +1,6 @@
 # rungroup
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/centum/rungroup.svg)](https://pkg.go.dev/github.com/centum/rungroup)
 [![test](https://github.com/centum/rungroup/actions/workflows/test.yml/badge.svg?branch=master&event=push)](https://github.com/centum/rungroup/actions/workflows/test.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/centum/rungroup)](https://goreportcard.com/report/github.com/centum/rungroup)
 [![Apache 2 licensed](https://img.shields.io/badge/license-Apache2-blue.svg)](https://raw.githubusercontent.com/centum/rungroup/refs/heads/master/LICENSE)
